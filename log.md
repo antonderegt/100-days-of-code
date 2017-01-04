@@ -8,13 +8,14 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
 
-<!-- ### Day 2: January 04, 2017
+### Day 2: January 04, 2017
 
-**Today's Progress**: ...
+**Today's Progress**: Today I refactored the info, chrono and contact page, I added some material design elements and finally I started with the redux part I need for the jury page.
 
-**Thoughts**: ...
+**Thoughts**: Funny to see my mind working on the app in the background, giving me new insights while driving.
 
-**Link(s) to work**: [link](http://www.example.com) -->
+**Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
+
 
 
 <!--  Example
