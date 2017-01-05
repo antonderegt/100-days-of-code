@@ -16,7 +16,13 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
 
+### Day 3: January 05, 2017
 
+**Today's Progress**: I designed the jury page, it maps all the jury entries in Redux store and renders every judge with a picture, a name and a description. I also added a Floating Action Button which navigates back to the homepage.
+
+**Thoughts**: I really need to work on my CSS skills...
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
 
 <!--  Example
 ### Day 1: January 03, 2017
