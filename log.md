@@ -24,6 +24,14 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
 
+### Day 4: January 06, 2017
+
+**Today's Progress**: Today I learned a lot about CSS Flexbox. I am trying to style my app with flex on a separate branch, no real improvements yet.
+
+**Thoughts**: It really helps when I share my work and look at the work of others. A buddy of mine showed me flex, because he saw my aweful CSS.
+
+**Link(s) to work**: Here you can see my start on the [Flexbox branch](https://github.com/antonderegt/NAC-Competition/tree/flexbox)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
