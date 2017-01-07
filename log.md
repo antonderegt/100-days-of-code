@@ -32,6 +32,14 @@
 
 **Link(s) to work**: Here you can see my start on the [Flexbox branch](https://github.com/antonderegt/NAC-Competition/tree/flexbox)
 
+### Day 5: January 07, 2017
+
+**Today's Progress**: I implemented Flexbox to the homepage of my app, which means the basics of the app are done, so I started a web perfomance course on Udacity to improve the speed of the app. After that I started with a portfolio for my domain [DitIsAnton](https://ditisanton.nl).
+
+**Thoughts**: I am learning so much more than just CSS and JS during this project!
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/), [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
