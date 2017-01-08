@@ -40,6 +40,14 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/), [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
 
+### Day 6: January 08, 2017
+
+**Today's Progress**: Today I learned a lot about Critical Rendering Path fromn [Udacity](https://classroom.udacity.com/courses/ud884/lessons/1464158642/concepts/15290985480923) and I refactored the code for my app using stateless components.
+
+**Thoughts**: I don't like it when I can't see the result of my work.
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
