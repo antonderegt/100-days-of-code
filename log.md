@@ -6,7 +6,7 @@
 
 **Thoughts**: ServiceWorkers are awesome! Only they don't work on iOS and that sucks...
 
-**Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
 ### Day 2: January 04, 2017
 
@@ -14,7 +14,7 @@
 
 **Thoughts**: Funny to see my mind working on the app in the background, giving me new insights while driving.
 
-**Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
 ### Day 3: January 05, 2017
 
@@ -22,7 +22,7 @@
 
 **Thoughts**: I really need to work on my CSS skills...
 
-**Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/)
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
 ### Day 4: January 06, 2017
 
@@ -38,13 +38,21 @@
 
 **Thoughts**: I am learning so much more than just CSS and JS during this project!
 
-**Link(s) to work**: [The App](https://antonderegt.github.io/NAC-Competition/), [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/), [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
 
 ### Day 6: January 08, 2017
 
 **Today's Progress**: Today I learned a lot about Critical Rendering Path fromn [Udacity](https://classroom.udacity.com/courses/ud884/lessons/1464158642/concepts/15290985480923) and I refactored the code for my app using stateless components.
 
 **Thoughts**: I don't like it when I can't see the result of my work.
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
+
+### Day 7: January 09, 2017
+
+**Today's Progress**: Done with refactoring for now. Project size went from 2.4mb to 461kb, 5 times smaller, and so much faster to load! Also got a 100/100 score with [Lighthouse](https://developers.google.com/web/tools/lighthouse/). I'm going to continue the Udacity course on web performance though, might make it even faster. This recource helped a lot: [Optimizing React + ES6 + Webpack Production Build](http://moduscreate.com/optimizing-react-es6-webpack-production-build/)
+
+**Thoughts**: It sucks that safari doesn't support ServiceWorkers, such a loss for iPhone users.
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
