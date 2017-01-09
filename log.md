@@ -50,7 +50,7 @@
 
 ### Day 7: January 09, 2017
 
-**Today's Progress**: Done with refactoring for now. Project size went from 2.4mb to 461kb, 5 times smaller, and so much faster to load! Also got a 100/100 score with [Lighthouse](https://developers.google.com/web/tools/lighthouse/). I'm going to continue the Udacity course on web performance though, might make it even faster. This recource helped a lot: [Optimizing React + ES6 + Webpack Production Build](http://moduscreate.com/optimizing-react-es6-webpack-production-build/)
+**Today's Progress**: Done with refactoring for now. Project size went from 2.4mb to 461kb, 5 times smaller, and so much faster to load! Also got a 100/100 score with [Lighthouse](https://developers.google.com/web/tools/lighthouse/). I'm going to continue the Udacity course on web performance though, might make it even faster. This resource helped a lot: [Optimizing React + ES6 + Webpack Production Build](http://moduscreate.com/optimizing-react-es6-webpack-production-build/)
 
 **Thoughts**: It sucks that safari doesn't support ServiceWorkers, such a loss for iPhone users.
 
