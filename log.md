@@ -56,6 +56,14 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
+### Day 8: January 10, 2017
+
+**Today's Progress**: I added a small feature where users can select the team they are on to see the correct timetable
+
+**Thoughts**: React and Redux is quite easy after the steep learning curve.
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
