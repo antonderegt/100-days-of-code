@@ -64,6 +64,22 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
+### Day 9: January 11, 2017
+
+**Today's Progress**: Selected team is stored locally now with IndexedDB.
+
+**Thoughts**: Nice!
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Found out the app only works in Chrome now, can't figure out why the rest of the browsers stopped showing my app.
+
+**Thoughts**: Bugs without error messages suck!
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
