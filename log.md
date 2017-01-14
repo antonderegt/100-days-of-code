@@ -80,6 +80,22 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
+### Day 11: January 13, 2017
+
+**Today's Progress**: Fixed the bug of yesterday, IndexedDb was blocking the DOM in some browsers. I switched to LocalStorage which is easier and seems to do the job just fine, it only has to remember one value.
+
+**Thoughts**: Took me long enough but I am happy I use a versioning system!
+
+**Link(s) to work**: It works again in most browsers: [The App](https://antonderegt.github.io/nac/)
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: Checked out Material-UI, a Material Design tool for react.
+
+**Thoughts**: In the next few days I'll keep doing some minor tweaks to the app. Now I have time to work on my portfolio. 
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
