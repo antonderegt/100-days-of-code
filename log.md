@@ -92,7 +92,15 @@
 
 **Today's Progress**: Checked out Material-UI, a Material Design tool for react.
 
-**Thoughts**: In the next few days I'll keep doing some minor tweaks to the app. Now I have time to work on my portfolio. 
+**Thoughts**: In the next few days I'll keep doing some minor tweaks to the app. Now I have time to work on my portfolio.
+
+**Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
+
+### Day 13: January 15, 2017
+
+**Today's Progress**: Played around with Material-UI, a Material Design tool for react. And a theme tweak to the app
+
+**Thoughts**: Material-UI looks great
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
