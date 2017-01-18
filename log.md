@@ -104,6 +104,38 @@
 
 **Link(s) to work**: [The App](https://antonderegt.github.io/nac/)
 
+### Day 14: January 16, 2017
+
+**Today's Progress**: Working on my portfolio.
+
+**Thoughts**: Busy week but still able to squeeze in some time.
+
+**Link(s) to work**: Internet is to slow to upload unfortunately.
+
+### Day 15: January 17, 2017
+
+**Today's Progress**: Working on my portfolio.
+
+**Thoughts**: Busy week but still able to squeeze in some time.
+
+**Link(s) to work**: Internet is to slow to upload unfortunately.
+
+### Day 16: January 18, 2017
+
+**Today's Progress**: Building an awesome portfolio, today I work on a Material Design GridList.
+
+**Thoughts**: Busy week but still able to squeeze in some time.
+
+**Link(s) to work**: Internet is to slow to upload unfortunately.
+
+### Day 17: January 19, 2017
+
+**Today's Progress**: Building an awesome portfolio.
+
+**Thoughts**: Busy week but still able to squeeze in some time.
+
+**Link(s) to work**: Internet is to slow to upload unfortunately.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
