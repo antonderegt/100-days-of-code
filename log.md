@@ -136,6 +136,22 @@
 
 **Link(s) to work**: Internet is to slow to upload unfortunately.
 
+### Day 18: January 20, 2017
+
+**Today's Progress**: Building an awesome portfolio.
+
+**Thoughts**: Busy week but still able to squeeze in some time.
+
+**Link(s) to work**: Internet is to slow to upload unfortunately.
+
+### Day 19: January 21, 2017
+
+**Today's Progress**: Building an awesome portfolio. It's finally online
+
+**Thoughts**: Busy week but still able to squeeze in some time.
+
+**Link(s) to work**: Internet is to slow to upload unfortunately.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
