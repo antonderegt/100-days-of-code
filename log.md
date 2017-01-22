@@ -152,6 +152,14 @@
 
 **Link(s) to work**: Internet is to slow to upload unfortunately.
 
+### Day 20: January 22, 2017
+
+**Today's Progress**: Did 4 intermediate algorithm challenges on FreeCodeCamp.
+
+**Thoughts**: Feels good to be back at FCC.
+
+**Link(s) to work**: [FCC Profile](https://www.freecodecamp.com/antonderegt)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
