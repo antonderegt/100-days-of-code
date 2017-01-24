@@ -160,6 +160,22 @@
 
 **Link(s) to work**: [FCC Profile](https://www.freecodecamp.com/antonderegt)
 
+### Day 21: January 23, 2017
+
+**Today's Progress**: Did 5 intermediate algorithm challenges on FreeCodeCamp.
+
+**Thoughts**: Feels good to be back at FCC.
+
+**Link(s) to work**: [FCC Profile](https://www.freecodecamp.com/antonderegt)
+
+### Day 22: January 24, 2017
+
+**Today's Progress**: Did the last intermediate algorithm challenges on FreeCodeCamp.
+
+**Thoughts**: Ready to start the final projects for the Frond End Development Certificate
+
+**Link(s) to work**: [FCC Profile](https://www.freecodecamp.com/antonderegt)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
