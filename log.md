@@ -176,6 +176,14 @@
 
 **Link(s) to work**: [FCC Profile](https://www.freecodecamp.com/antonderegt)
 
+### Day 23: January 25, 2017
+
+**Today's Progress**: Finished the calculator project.
+
+**Thoughts**: It's of course never finished...
+
+**Link(s) to work**: [Nuclear Calculator](https://antonderegt.github.io/fcc/calculator/build/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
