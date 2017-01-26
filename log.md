@@ -184,6 +184,14 @@
 
 **Link(s) to work**: [Nuclear Calculator](https://antonderegt.github.io/fcc/calculator/build/index.html)
 
+### Day 24: January 26, 2017
+
+**Today's Progress**: Started on the [FCC](https://freecodecamp.com) pomodoro project.
+
+**Thoughts**: Coding is awesome!
+
+**Link(s) to work**: [Reactive Pomodoro](https://antonderegt.github.io/fcc/pomodoro/build/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
