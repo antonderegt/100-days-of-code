@@ -192,6 +192,22 @@
 
 **Link(s) to work**: [Reactive Pomodoro](https://antonderegt.github.io/fcc/pomodoro/build/index.html)
 
+### Day 25: January 27, 2017
+
+**Today's Progress**: Basic timer for the pomodoro project.
+
+**Thoughts**: Bugs, bugs, bugs, I fix it all.
+
+**Link(s) to work**: [Reactive Pomodoro](https://antonderegt.github.io/fcc/pomodoro/build/index.html)
+
+### Day 26: January 28, 2017
+
+**Today's Progress**: I can now set a session time and break time for the Pomodoro, next step is pause button and styling.
+
+**Thoughts**: This challenge really helps me to be more productive, when before I'd think I didn't have any spare time, I now just make the time.
+
+**Link(s) to work**: [Reactive Pomodoro](https://antonderegt.github.io/fcc/pomodoro/build/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
