@@ -208,6 +208,8 @@
 
 **Link(s) to work**: [Reactive Pomodoro](https://antonderegt.github.io/fcc/pomodoro/build/index.html)
 
+### *Secret*
+
 ### Day 31: Februari 3, 2017
 
 **Today's Progress**: I built Tic Tac Toe up until the multiplayer functionalities. And did a small start on the Simon Game 'cus I got stuck with the Tic Tac Toe AI part.
