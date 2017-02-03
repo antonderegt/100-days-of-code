@@ -208,6 +208,14 @@
 
 **Link(s) to work**: [Reactive Pomodoro](https://antonderegt.github.io/fcc/pomodoro/build/index.html)
 
+### Day 31: Februari 3, 2017
+
+**Today's Progress**: I built Tic Tac Toe up until the multiplayer functionalities. And did a small start on the Simon Game 'cus I got stuck with the Tic Tac Toe AI part.
+
+**Thoughts**: I forgot to update the log for a few days and I wasn't able to program for two days, so that sucks.
+
+**Link(s) to work**: [Tic Tac Toe](https://antonderegt.github.io/fcc/tictactoe/build/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
