@@ -210,13 +210,29 @@
 
 ### *Secret*
 
-### Day 31: Februari 3, 2017
+### Day 31: February 3, 2017
 
 **Today's Progress**: I built Tic Tac Toe up until the multiplayer functionalities. And did a small start on the Simon Game 'cus I got stuck with the Tic Tac Toe AI part.
 
 **Thoughts**: I forgot to update the log for a few days and I wasn't able to program for two days, so that sucks.
 
 **Link(s) to work**: [Tic Tac Toe](https://antonderegt.github.io/fcc/tictactoe/build/index.html)
+
+### Day 32: February 04, 2017
+
+**Today's Progress**: Portfolio updating projects
+
+**Thoughts**:
+
+**Link(s) to work**: [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
+
+### Day 33: February 05, 2017
+
+**Today's Progress**: Portfolio updating projects
+
+**Thoughts**:
+
+**Link(s) to work**: [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
 
 <!--  Example
 ### Day 1: January 03, 2017
