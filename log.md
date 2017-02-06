@@ -234,6 +234,14 @@
 
 **Link(s) to work**: [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
 
+### Day 34: February 06, 2017
+
+**Today's Progress**: Instead of directly showing the project I added a lot of information about with I'm working on and why I built it.
+
+**Thoughts**: Feeling good to get lots of hours in again!
+
+**Link(s) to work**: [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
