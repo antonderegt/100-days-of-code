@@ -242,6 +242,15 @@
 
 **Link(s) to work**: [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
 
+### Day 35: February 07, 2017
+
+**Today's Progress**: Finished yesterdays work on my portfolio. I implemented the AI in my Tic Tac Toe game, a stupid version but it's a start.
+
+**Thoughts**: My portfolio looks alright now. I had no idea where to start on the AI part of the Tic Tac Toe, I got really stuck, but somehow I got an idea and the first version of AI is running! It just picks an empty spot so nothing smart yet.
+
+**Link(s) to work**: [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
+[Tic Tac Toe](https://antonderegt.github.io/fcc/tictactoe/build/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
