@@ -251,6 +251,14 @@
 **Link(s) to work**: [Portfolio](https://antonderegt.github.io/FCC-Challenges/portfolio/src/index.html)
 [Tic Tac Toe](https://antonderegt.github.io/fcc/tictactoe/build/index.html)
 
+### Day 36: February 08, 2017
+
+**Today's Progress**: Simon game work with a sequence of one color.
+
+**Thoughts**: Nice work today
+
+**Link(s) to work**: [Simon Game](https://antonderegt.github.io/fcc/simongame/build/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
