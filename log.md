@@ -259,6 +259,30 @@
 
 **Link(s) to work**: [Simon Game](https://antonderegt.github.io/fcc/simongame/build/index.html)
 
+### Day 37: February 11, 2017
+
+**Today's Progress**: Simon game work.
+
+**Thoughts**: This game is harder to build than I thought.
+
+**Link(s) to work**: [Simon Game](https://antonderegt.github.io/fcc/simongame/build/index.html)
+
+### Day 38: February 12, 2017
+
+**Today's Progress**: Worked a lot on the Simon Game, no visible progress unfortunately.
+
+**Thoughts**: It's good to start over sometimes
+
+**Link(s) to work**: [Simon Game](https://antonderegt.github.io/fcc/simongame/build/index.html)
+
+### Day 39: February 13, 2017
+
+**Today's Progress**: Simon Game is done!
+
+**Thoughts**: Sometimes progress is slow and other times, like today, progress is faster than lightning!
+
+**Link(s) to work**: [Simon Game](https://antonderegt.github.io/fcc/simongame/build/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
