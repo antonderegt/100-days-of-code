@@ -291,6 +291,14 @@
 
 **Link(s) to work**: [My FCC Page](https://www.freecodecamp.com/antonderegt)
 
+### Day 41: February 15, 2017
+
+**Today's Progress**: Great work on the recipe box challenge! First project with react-bootstrap
+
+**Thoughts**: I'm trying out what works best for me regarding how much I should plan before starting to code. Sometimes it's awesome how a project evolves just by starting with basic functionallity and slowly incrementing from there. But today I had to redo a lot of stuff because I didn't have a clear picture of what I was going to build.
+
+**Link(s) to work**: I'll put up a link tomorrow.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
