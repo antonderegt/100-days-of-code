@@ -308,6 +308,33 @@
 **Link(s) to work**: [The ReadME](https://github.com/antonderegt/fcc/tree/master/datavisualization/react/recipebox)
 [The App](https://antonderegt.github.io/fcc/datavisualization/react/recipebox/build/)
 
+### Day 43: February 17, 2017
+
+**Today's Progress**: Started with #dailycssimages. Built my first pure css image!
+
+**Thoughts**: Never thougth it would be this easy.
+
+**Link(s) to work**: [Pure CSS Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
+
+### Day 44: February 18, 2017
+
+**Today's Progress**: Did another #dailycssimages and started with VueJS.
+
+**Thoughts**: VueJS seems pretty cool and simple.
+
+**Link(s) to work**: [First Vue something](https://tess.ditisanton.nl)
+
+### Day 45: February 19, 2017
+
+**Today's Progress**: Continued with VueJS project.
+
+**Thoughts**: Lazy sunday codingssssss
+
+**Link(s) to work**: [VueJS something](https://tess.ditisanton.nl)
+
+
+
+
 <!--  Example
 ### Day 1: January 03, 2017
 
