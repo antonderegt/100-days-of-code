@@ -332,6 +332,14 @@
 
 **Link(s) to work**: [VueJS something](https://tess.ditisanton.nl)
 
+### Day 46: February 20, 2017
+
+**Today's Progress**: Made an angry beaver with pure css #dailycssimages 03
+
+**Thoughts**: Pretty easy image but fun to make.
+
+**Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
+
 
 
 
