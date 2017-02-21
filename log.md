@@ -340,6 +340,14 @@
 
 **Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
 
+### Day 47: February 21, 2017
+
+**Today's Progress**: Made a cute tiger with a waterhead pure css #dailycssimages 04, and worked on VueJS blog.
+
+**Thoughts**: Pretty easy image but fun to make.
+
+**Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
+
 
 
 
