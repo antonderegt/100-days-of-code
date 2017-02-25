@@ -348,6 +348,38 @@
 
 **Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
 
+### Day 48: February 22, 2017
+
+**Today's Progress**: Design work on a blog website I'm building for my gf.
+
+**Thoughts**: Pretty easy image but fun to make.
+
+**Link(s) to work**: [Blog](https://tess.ditisanton.nl)
+
+### Day 49: February 23, 2017
+
+**Today's Progress**: Started making SVG images.
+
+**Thoughts**: This is even more awesome than pure css images. Because of the GUI it's faster and easier to build images.
+
+**Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
+
+### Day 50: February 24, 2017
+
+**Today's Progress**: Made another SVG and did website optimalization.
+
+**Thoughts**: Half way! Awesome that I got this far, definitely motivated to finish all 100 days.
+
+**Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
+
+### Day 51: February 25, 2017
+
+**Today's Progress**: Made a ruler SVG.
+
+**Thoughts**: Always learning!
+
+**Link(s) to work**: [Ruler Image](http://codepen.io/antonderegt/pen/VpYBgq)
+
 
 
 
