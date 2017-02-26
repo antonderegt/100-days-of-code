@@ -380,6 +380,14 @@
 
 **Link(s) to work**: [Ruler Image](http://codepen.io/antonderegt/pen/VpYBgq)
 
+### Day 52: February 26, 2017
+
+**Today's Progress**: Worked a lot on menu animations for a blog.
+
+**Thoughts**: It was hard work, but I learned a lot!
+
+**Link(s) to work**: [Blog](http://tess.ditisanton.nl)
+
 
 
 
