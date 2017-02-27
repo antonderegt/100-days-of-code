@@ -388,6 +388,15 @@
 
 **Link(s) to work**: [Blog](http://tess.ditisanton.nl)
 
+### Day 53: February 27, 2017
+
+**Today's Progress**: Made an SVG notepad image and finally did the animations I wanted with VueJS by setting different classes on click events.
+
+**Thoughts**: Thought I got stuck, but than I found the way I was googling for.
+
+**Link(s) to work**: [Notepad](http://codepen.io/antonderegt/pen/Ppqmqm)
+[Menu animation](http://tess.ditisanton.nl)
+
 
 
 
