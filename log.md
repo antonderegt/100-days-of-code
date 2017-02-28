@@ -397,6 +397,14 @@
 **Link(s) to work**: [Notepad](http://codepen.io/antonderegt/pen/Ppqmqm)
 [Menu animation](http://tess.ditisanton.nl)
 
+### Day 54: February 28, 2017
+
+**Today's Progress**: #dailycssimages and animations update on blog
+
+**Thoughts**: Totally failed today, svg image is too ugly to show you.
+
+**Link(s) to work**: [Menu animation](http://tess.ditisanton.nl)
+
 
 
 
