@@ -405,7 +405,29 @@
 
 **Link(s) to work**: [Menu animation](http://tess.ditisanton.nl)
 
+### Day 55: March 01, 2017
 
+**Today's Progress**: I switched from #dailycssimages to #dailysvgimages.
+
+**Thoughts**: SVGs are quicker and easier to build, that's why I prefer them.
+
+**Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
+
+### Day 56: March 02, 2017
+
+**Today's Progress**: Started on an SVG image of Toad.
+
+**Thoughts**: I used a free SVG editor on the web, it's perfect for simple stuff but I might need to upgrade to pro software to get the best output.
+
+**Link(s) to work**: [Image Portfolio](https://codepen.io/antonderegt/full/qRwyNO)
+
+### Day 57: March 03, 2017
+
+**Today's Progress**: Update to personal website
+
+**Thoughts**: It's build with React, but I might switch to VueJS
+
+**Link(s) to work**: [Personal Site](https://ditisanton.nl)
 
 
 <!--  Example
