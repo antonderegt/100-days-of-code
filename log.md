@@ -429,6 +429,14 @@
 
 **Link(s) to work**: [Personal Site](https://ditisanton.nl)
 
+### Day 58: March 04, 2017
+
+**Today's Progress**: Started with Quasar, a VueJS framework.
+
+**Thoughts**: Looks nice, but a lot of new syntax to learn.
+
+**Link(s) to work**:
+
 
 <!--  Example
 ### Day 1: January 03, 2017
