@@ -437,6 +437,14 @@
 
 **Link(s) to work**:
 
+### Day 59: March 05, 2017
+
+**Today's Progress**: Went back to FCC today and programmed all basic functionallity of the Game of Life challenge.
+
+**Thoughts**: Just spent around 3 hours progamming all the functionallity, really didn't think I'd do it this fast. In my head this was a much harder challenge.
+
+**Link(s) to work**: [Game of Life](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
+
 
 <!--  Example
 ### Day 1: January 03, 2017
