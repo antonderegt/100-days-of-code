@@ -445,6 +445,15 @@
 
 **Link(s) to work**: [Game of Life](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
 
+### Day 60: March 06, 2017
+
+**Today's Progress**: Updated the styling and performance of my Game of Life app. Also started on the last React challenge on FCC (Dungeon Crawler).
+
+**Thoughts**: Going way faster than I thought!!!!
+
+**Link(s) to work**: [Game of Life](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
+[Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
+
 
 <!--  Example
 ### Day 1: January 03, 2017
