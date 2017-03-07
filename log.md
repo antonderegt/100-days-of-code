@@ -454,6 +454,15 @@
 **Link(s) to work**: [Game of Life](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
 [Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
 
+### Day 61: March 07, 2017
+
+**Today's Progress**: Added the ability to walk in the dungeon with arrow keys.
+
+**Thoughts**: Feeling sick but can't stop coding!
+
+**Link(s) to work**:
+[Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
+
 
 <!--  Example
 ### Day 1: January 03, 2017
