@@ -463,6 +463,14 @@
 **Link(s) to work**:
 [Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
 
+### Day 62: March 08, 2017
+
+**Today's Progress**: Fight with monsters, pick up a new weapon or health
+
+**Thoughts**: Good stuff
+
+**Link(s) to work**:
+[Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
 
 <!--  Example
 ### Day 1: January 03, 2017
