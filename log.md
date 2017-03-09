@@ -472,6 +472,15 @@
 **Link(s) to work**:
 [Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
 
+### Day 63: March 09, 2017
+
+**Today's Progress**: Finished the Dungeon Crawler FCC challenge!
+
+**Thoughts**: Put in a little more work in fixing bugs than I normally do and the result is very nice! Rereading my code really helps me optimize my code.
+
+**Link(s) to work**:
+[Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
