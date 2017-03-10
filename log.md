@@ -481,6 +481,14 @@
 **Link(s) to work**:
 [Dungeon Crawler](https://antonderegt.github.io/fcc/datavisualization/react/gameoflife/build/)
 
+### Day 64: March 10, 2017
+
+**Today's Progress**: Started learning about D3js
+
+**Thoughts**: Looks really cool
+
+**Link(s) to work**: no linkssss
+
 <!--  Example
 ### Day 1: January 03, 2017
 
