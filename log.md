@@ -489,6 +489,22 @@
 
 **Link(s) to work**: no linkssss
 
+### Day 65: March 11, 2017
+
+**Today's Progress**: Finished first D3js project: bar chart
+
+**Thoughts**: Looks really cool
+
+**Link(s) to work**: [Bar Chart](https://antonderegt.github.io/fcc/datavisualization/d3/barchart/dist/index.html)
+
+### Day 66: March 12, 2017
+
+**Today's Progress**: Started second D3js project: scatterplot graph
+
+**Thoughts**: Looks really cool
+
+**Link(s) to work**: [Scatterplot Graph](https://antonderegt.github.io/fcc/datavisualization/d3/scatterplotgraph/dist/index.html)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
