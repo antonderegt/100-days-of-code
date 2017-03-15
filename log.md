@@ -505,6 +505,30 @@
 
 **Link(s) to work**: [Scatterplot Graph](https://antonderegt.github.io/fcc/datavisualization/d3/scatterplotgraph/dist/index.html)
 
+### Day 67: March 13, 2017
+
+**Today's Progress**: Scatterplot graph
+
+**Thoughts**: Looks really cool
+
+**Link(s) to work**: [Scatterplot Graph](https://antonderegt.github.io/fcc/datavisualization/d3/scatterplotgraph/dist/index.html)
+
+### Day 68: March 14, 2017
+
+**Today's Progress**: Scatterplot graph
+
+**Thoughts**: Looks really cool
+
+**Link(s) to work**: [Scatterplot Graph](https://antonderegt.github.io/fcc/datavisualization/d3/scatterplotgraph/dist/index.html)
+
+### Day 69: March 15, 2017
+
+**Today's Progress**: Update on an old app
+
+**Thoughts**: Boring work
+
+**Link(s) to work**: [Old App](nac.surge.sh)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
