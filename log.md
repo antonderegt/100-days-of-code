@@ -529,6 +529,31 @@
 
 **Link(s) to work**: [Old App](nac.surge.sh)
 
+### Day 70: March 16, 2017
+
+**Today's Progress**: Finished scatterplot graph, started heat map
+
+**Thoughts**: Awesome to get these results!
+
+**Link(s) to work**: [Scatterplot Graph](https://antonderegt.github.io/fcc/datavisualization/d3/scatterplotgraph/dist/index.html)
+[Heat Map](https://antonderegt.github.io/fcc/datavisualization/d3/heatmap/dist/index.html)
+
+### Day 71: March 17, 2017
+
+**Today's Progress**: Worked on a project for work to show how trained our crew is.
+
+**Thoughts**: Fun to work on
+
+**Link(s) to work**: Too secret to show
+
+### Day 72: March 18, 2017
+
+**Today's Progress**: Finished the work project!
+
+**Thoughts**: Fun to work on.
+
+**Link(s) to work**: Too secret to show.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
