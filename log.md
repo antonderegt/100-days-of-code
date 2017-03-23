@@ -562,6 +562,22 @@
 
 **Link(s) to work**: no links
 
+### Day 74: March 22, 2017
+
+**Today's Progress**: Working on backend stuff: nodejs server
+
+**Thoughts**: I skipped a few D3JS projects because I wanted to do some little assignments.
+
+**Link(s) to work**: no links
+
+### Day 75: March 23, 2017
+
+**Today's Progress**: Working on bot
+
+**Thoughts**:
+
+**Link(s) to work**: no links
+
 <!--  Example
 ### Day 1: January 03, 2017
 
