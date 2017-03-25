@@ -578,6 +578,22 @@
 
 **Link(s) to work**: no links
 
+### Day 76: March 24, 2017
+
+**Today's Progress**: FCC Express web app challenges
+
+**Thoughts**: Easy challenges, lots of hints
+
+**Link(s) to work**: no links
+
+### Day 77: March 25, 2017
+
+**Today's Progress**: First API express project: Timestamp
+
+**Thoughts**: Nice, first little express app!
+
+**Link(s) to work**: [Timestamp](https://fcc-api-antondregt.c9users.io/)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
