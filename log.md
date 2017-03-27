@@ -602,6 +602,14 @@
 
 **Link(s) to work**: [Header Parser](https://fcc-header-parser-antondregt.c9users.io/)
 
+### Day 79: March 27, 2017
+
+**Today's Progress**: Today I worked on the URL Shortener FCC project and worked on a bot I'm building with a small group from Chingu Giraffes Cohort.
+
+**Thoughts**: Working on backend is new for me and still hard but working together with the cohort guys is fun.
+
+**Link(s) to work**: Doesn't work yet but here's the link [URL Shortener](https://fcc-url-shortener-antondregt.c9users.io)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
