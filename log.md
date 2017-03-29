@@ -610,6 +610,22 @@
 
 **Link(s) to work**: Doesn't work yet but here's the link [URL Shortener](https://fcc-url-shortener-antondregt.c9users.io)
 
+### Day 80: March 28, 2017
+
+**Today's Progress**: Today I worked on the URL Shortener FCC project.
+
+**Thoughts**: Good progress.
+
+**Link(s) to work**: [URL Shortener](https://short-url.herokuapp.com)
+
+### Day 81: March 29, 2017
+
+**Today's Progress**: Today I finished the URL Shortener FCC project.
+
+**Thoughts**: Learned a lot from this project! Backend is pretty cool.
+
+**Link(s) to work**: [URL Shortener](https://short-url.herokuapp.com)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
