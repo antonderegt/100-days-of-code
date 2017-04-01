@@ -626,6 +626,30 @@
 
 **Link(s) to work**: [URL Shortener](https://short-url.herokuapp.com)
 
+### Day 82: March 30, 2017
+
+**Today's Progress**: I set up the Image Search Abstraction Layer and did some work on the bot.
+
+**Thoughts**: Lot of work to set this up.
+
+**Link(s) to work**: [Isn't much yet...](https://fcc-imgage-search.herokuapp.com/)
+
+### Day 83: March 31, 2017
+
+**Today's Progress**: I did some work on the bot. Not much on the image search app.
+
+**Thoughts**: Fun to work together
+
+**Link(s) to work**: [Isn't much yet...](https://fcc-imgage-search.herokuapp.com/)
+
+### Day 84: April 1, 2017
+
+**Today's Progress**: I finished the Image Search Abstraction Layer.
+
+**Thoughts**: Hardest part was getting the API to work, annoying settings error...
+
+**Link(s) to work**: [Img Search](https://fcc-img-search-abstraction.herokuapp.com)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
