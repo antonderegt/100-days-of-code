@@ -650,6 +650,22 @@
 
 **Link(s) to work**: [Img Search](https://fcc-img-search-abstraction.herokuapp.com)
 
+### Day 85: April 2, 2017
+
+**Today's Progress**: I finished the File Metadata Microservice.
+
+**Thoughts**: That was quick!
+
+**Link(s) to work**: [File Metadata Microservice](https://fcc-file-sizer.herokuapp.com/)
+
+### Day 86: April 3, 2017
+
+**Today's Progress**: Started on the first Dynamic Web Application Project, getting the hang of Clementine.js.
+
+**Thoughts**: Wondering whether I will keep using Clementine...
+
+**Link(s) to work**: No link yet.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
