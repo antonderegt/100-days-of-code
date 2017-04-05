@@ -666,6 +666,22 @@
 
 **Link(s) to work**: No link yet.
 
+### Day 87: April 4, 2017
+
+**Today's Progress**: Started the bot landing page
+
+**Thoughts**: It will be awesome!
+
+**Link(s) to work**: [Landing Page](https://antonderegt.github.io/roxean-bot-landing-page/)
+
+### Day 88: April 5, 2017
+
+**Today's Progress**: Set up VueJS and Express for the Voting-App
+
+**Thoughts**: Lot of new stuff, coupling the backend and frontend. Finally full stack!
+
+**Link(s) to work**: No link yet.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
