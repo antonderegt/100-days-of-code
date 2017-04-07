@@ -682,6 +682,22 @@
 
 **Link(s) to work**: No link yet.
 
+### Day 89: April 6, 2017
+
+**Today's Progress**: Worked on the authentication process of the voting app.
+
+**Thoughts**: New stuff, very cool!
+
+**Link(s) to work**: No links.
+
+### Day 90: April 7, 2017
+
+**Today's Progress**: I Built a small app for personal use, since I live in three places during the week I forget where I leave my clothes.
+
+**Thoughts**: MVP is done.
+
+**Link(s) to work**: [Clothes List](kledinglijst.firebaseapp.com)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
