@@ -698,6 +698,38 @@
 
 **Link(s) to work**: [Clothes List](kledinglijst.firebaseapp.com)
 
+### Day 91: April 8, 2017
+
+**Today's Progress**: Working on authentication for the voting app
+
+**Thoughts**: A lot.
+
+**Link(s) to work**: No links.
+
+### Day 92: April 9, 2017
+
+**Today's Progress**: Working on authentication for the voting app
+
+**Thoughts**: A lot.
+
+**Link(s) to work**: No links.
+
+### Day 93: April 10, 2017
+
+**Today's Progress**: I tried to start over with react on the frontend of the voting app.
+
+**Thoughts**: Only getting more lost...
+
+**Link(s) to work**: No links.
+
+### Day 94: April 11, 2017
+
+**Today's Progress**: Started again from scratch!
+
+**Thoughts**: This time it seems to work! Thanks to rpemberton. It sucks, but it is sometimes good to just start over.
+
+**Link(s) to work**: No links.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
