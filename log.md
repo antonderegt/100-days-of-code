@@ -730,6 +730,46 @@
 
 **Link(s) to work**: No links.
 
+### Day 95: April 12, 2017
+
+**Today's Progress**: Still working on the voting app setup.
+
+**Thoughts**: It's been a while since I've used React.
+
+**Link(s) to work**: No links.
+
+### Day 96: April 13, 2017
+
+**Today's Progress**: Got great work done on the voting app.
+
+**Thoughts**: React can be very cool, but hard to set up...
+
+**Link(s) to work**: No links.
+
+### Day 97: April 14, 2017
+
+**Today's Progress**: Working on the voting app with React
+
+**Thoughts**: Pff.
+
+**Link(s) to work**: No links.
+
+### Day 98: April 15, 2017
+
+**Today's Progress**: Got the frontend of the voting app working with React.
+
+**Thoughts**: Took a long time, might switch to VueJS
+
+**Link(s) to work**: No links.
+
+### Day 99: April 16, 2017
+
+**Today's Progress**: Started with VueJS again after a tutorial.
+
+**Thoughts**: I love the simplicity of VueJS.
+
+**Link(s) to work**: No links.
+
 <!--  Example
 ### Day 1: January 03, 2017
 
