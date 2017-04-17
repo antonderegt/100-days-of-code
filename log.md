@@ -770,6 +770,14 @@
 
 **Link(s) to work**: No links.
 
+### Day 100: April 17, 2017
+
+**Today's Progress**: Working on the voting app again.
+
+**Thoughts**: After an awesome VueJS tutorial I'm up and running again on the voting app! Super quick
+
+**Link(s) to work**: [VueJS Tutorial](https://www.udemy.com/vue-web-apps/learn/v4/content)
+
 <!--  Example
 ### Day 1: January 03, 2017
 
